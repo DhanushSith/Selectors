@@ -1,0 +1,70 @@
+*{
+	text-align:center;
+}
+#body{
+	background-color:blue;
+}
+.hel{
+	margin:20px;
+	color:red;
+	font-size:40px;
+	text-align:center;
+}
+.hell{
+	color:white;
+}
+.V1{
+	color:white;
+	font-size:40px;
+	background-color:black;
+}
+.ATTRI{
+	background-color:green;
+	font-size:70px;
+	color:red;
+}
+.d{
+	background-color:#edfcae;
+}
+p{
+	font-size:50px;
+	color:green;
+}
+h1.sec2{
+	font-size:80px;
+}
+p.sec2{
+	font-size:90px;
+	background-color:red;
+}
+.HE{
+	font-size:40px;
+	background-color:red;
+}
+#HE2{
+	background-color:green;
+}
+#V{
+	background-color:gray;
+	padding:40px;
+}
+div > h1{
+	background-color:pink;
+}
+div>h2{
+	background-color:purple;
+}
+div ~p{
+	font-size:30px;
+	background-color:red;
+}
+div+p+p+p{
+	background-color:white;
+}
+a[target="_red"] {
+	background-color:red;
+	margin:40px 20px;
+}
+a[target="BLACK"] {
+	background-color:white;
+}
